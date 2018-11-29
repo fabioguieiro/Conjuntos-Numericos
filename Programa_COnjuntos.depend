@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1496635464 source:c:\users\fabio\desktop\trabalho 2\programa_conjuntos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	"TConj.h"
+
+1496633250 c:\users\fabio\desktop\trabalho 2\programa_conjuntos\tconj.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+
+1496635424 source:c:\users\fabio\desktop\trabalho 2\programa_conjuntos\tconj.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	"TConj.h"
+
